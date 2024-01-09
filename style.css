@@ -82,11 +82,12 @@ header a:hover {
     padding:10px 20px;
     border-radius: 5px;
 }
-.aboutus h2{
-    font-weight: bold;
+.aboutus h3 {
+    font-size: 20px;  
     color: white;
-    font-size: 20px;
-    margin: 20px 0;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 .project {
     display:flex;
@@ -114,11 +115,12 @@ header a:hover {
     background-color: #ede9db;
     padding: 20px 180px 15px;
 }
-.service-top p{
-    font-weight: bold;
-    font-size: 20px;
-    margin: 10px 0;
-    text-align: center;
+.service-top h3{
+    font-size: 20px;    
+    margin: 20px 0;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 .service {
     display:flex;
@@ -132,7 +134,7 @@ header a:hover {
     text-align:center;
 }
 .service img {
-    width:60%;
+    width:50%;
     border-radius: 10px;
 }
 .service h3 {
