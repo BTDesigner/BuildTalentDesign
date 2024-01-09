@@ -132,7 +132,7 @@ header a:hover {
     text-align:center;
 }
 .service img {
-    width:100%;
+    width:60%;
     border-radius: 10px;
 }
 .service h3 {
@@ -193,6 +193,9 @@ header ul {
 header h1 {
     left:50%;
     transform: translateX(-50%);
+}
+.aboutus {
+    height:60vh;
 }
 .aboutus h3 {
     font-size:30px;
