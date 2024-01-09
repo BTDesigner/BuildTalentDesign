@@ -82,7 +82,7 @@ header a:hover {
     padding:10px 20px;
     border-radius: 5px;
 }
-.aboutus h3{
+.aboutus h2{
     font-weight: bold;
     color: white;
     font-size: 20px;
@@ -197,11 +197,8 @@ header h1 {
 .aboutus {
     height:60vh;
 }
-.aboutus h3 {
+.aboutus h2 {
     font-size:30px;
-}
-.aboutus p {
-    font-size:10px;
 }
 .menu {
     display:block;
