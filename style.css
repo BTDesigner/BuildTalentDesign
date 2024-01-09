@@ -194,8 +194,11 @@ header h1 {
     left:50%;
     transform: translateX(-50%);
 }
-.aboutus h2 {
-    font-size:40px;
+.aboutus h3 {
+    font-size:30px;
+}
+.aboutus p {
+    font-size:10px;
 }
 .menu {
     display:block;
